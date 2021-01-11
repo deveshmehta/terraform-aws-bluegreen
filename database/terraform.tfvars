@@ -1,0 +1,9 @@
+db_identifier = "terraformaws"
+db_name = "taws"
+db_username = "tawsdbuser"
+db_password = "tawsdbpassword"
+#db_allocated_storage = 
+#db_port = 
+#db_backup_window = 
+#db_backup_retention_period = 
+#db_maintenance_window = 
